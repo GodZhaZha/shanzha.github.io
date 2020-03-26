@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GodZhaZha.github.io</id>
     <title>山楂の小站</title>
-    <updated>2020-03-26T06:21:17.557Z</updated>
+    <updated>2020-03-26T06:22:31.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GodZhaZha.github.io"/>
     <link rel="self" href="https://GodZhaZha.github.io/atom.xml"/>
@@ -11,12 +11,13 @@
     <icon>https://GodZhaZha.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 山楂の小站</rights>
     <entry>
-        <title type="html"><![CDATA[# **SSR酸酸乳安卓端使用教程**]]></title>
+        <title type="html"><![CDATA[SSR酸酸乳安卓端使用教程]]></title>
         <id>https://GodZhaZha.github.io/post/ssr-suan-suan-ru-an-zhuo-duan-shi-yong-jiao-cheng/</id>
         <link href="https://GodZhaZha.github.io/post/ssr-suan-suan-ru-an-zhuo-duan-shi-yong-jiao-cheng/">
         </link>
         <updated>2020-03-26T06:20:17.000Z</updated>
-        <content type="html"><![CDATA[<ol>
+        <content type="html"><![CDATA[<h1 id="ssr酸酸乳安卓端使用教程"><strong>SSR酸酸乳安卓端使用教程</strong></h1>
+<ol>
 <li><strong>推荐使用的上网工具SSR/SSRR</strong></li>
 </ol>
 <ul>
@@ -26,10 +27,10 @@
 <li>
 <p><strong>SSR下载地址：https://www.lanzous.com/ia6u1kh</strong></p>
 <p><strong>以上版本是本人自用好用的版本，也可以自己上网下载新版本</strong></p>
+<p><strong>食用方法：下载安装打开app→复制粘贴官网订阅地址→选择节点→路由设置→开始上网</strong></p>
+<p><strong>详细教程见下</strong></p>
 </li>
 </ul>
-<p>​	<strong>食用方法：下载安装打开app→复制粘贴官网订阅地址→选择节点→路由设置→开始上网</strong></p>
-<p>​	<strong>详细教程见下</strong></p>
 <ol start="2">
 <li>
 <p><strong>打开SSR/SSRR后直接点图中左上角的shadowsocksR也就是酸酸乳<img src="http://q7l9vf05e.bkt.clouddn.com/photo_1%4012-03-2020_19-52-47.jpg" alt="打开SSR客户端" style="zoom: 50%;" /></strong></p>
