@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shanzha.github.io</id>
     <title>山楂の小站</title>
-    <updated>2020-04-01T03:10:10.869Z</updated>
+    <updated>2020-04-01T03:11:15.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shanzha.github.io"/>
     <link rel="self" href="https://shanzha.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 山楂の小站</rights>
     <entry>
         <title type="html"><![CDATA[SSR酸酸乳安卓端使用教程]]></title>
-        <id>https://shanzha.github.io/post/ShadowsocksR/</id>
-        <link href="https://shanzha.github.io/post/ShadowsocksR/">
+        <id>https://shanzha.github.io/ShadowsocksR/</id>
+        <link href="https://shanzha.github.io/ShadowsocksR/">
         </link>
         <updated>2020-03-26T06:20:17.000Z</updated>
         <content type="html"><![CDATA[<h1 id="ssr酸酸乳安卓端使用教程">SSR酸酸乳安卓端使用教程</h1>
@@ -87,8 +87,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://shanzha.github.io/post/hello-gridea/</id>
-        <link href="https://shanzha.github.io/post/hello-gridea/">
+        <id>https://shanzha.github.io/hello-gridea/</id>
+        <link href="https://shanzha.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
